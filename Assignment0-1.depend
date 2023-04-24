@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1662772263 source:c:\users\emily\documents\assignment0-1\main.cpp
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<string>
+	<fstream>
+	<time.h>
+
